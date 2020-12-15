@@ -13,7 +13,7 @@ and then run the following R command in the Console.
 ### Results
 
 <p align="center"> 
-<img align="right" width="100" height="100"  src="https://github.com/wenwenmin/SSNMF/blob/main/Figure/res_barplot.png">
+<img width="400" height="400"  src="https://github.com/wenwenmin/SSNMF/blob/main/Figure/res_barplot.png">
 </p>
 Figure 1. Comparison of results of 12 unsupervised clustering methods in terms of NMI on the simulated data.
 
