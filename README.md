@@ -1,27 +1,25 @@
 # SSNMF
 
 ### R code
-A toy example explains how to use the TSCCA function. Before running the script, please first set the path for "script1_toy_example.R",
+An example explains how to use mutiple SSNMF functions. Before running the script, please first set the path for "example.R",
 and then run the following R command in the Console. 
 
 ``` r
-> source('script1_toy_example.R') 
+> source('example.R') 
 ```
 
-Next, we applied TSCCA and SCCA to these simulated data in the second example. Please run the following R command in the Console.
-``` r
-> source('script2_simulation.R') 
-```
-
-### TCGA data 
-In addition, we also comprehensively evaluated the performance of TSCCA using a set of the matched miRNA/gene expression data across 33 cancer types from the TCGA database (please see the folder "Results_tcga").
+### Results
+<p align="center"> 
+<img src="https://github.com/wenwenmin/TSCCA/blob/master/Figures/Fig1_TSCCA.png">
+</p>
+Figure 1. Comparison of results of 12 unsupervised clustering methods in terms of NMI on the simulated data.
 
 ### References
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
 <tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
-Wenwen Min, Tsung-Hui Chang, Shihua Zhang and Xiang Wan. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLOS Computational Biology (Revision). 
+Wenwen Min, Xiang Wan and Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with $\ell_{20}$-Norm. 
 </td></tr>
 </tbody>
 </table>
