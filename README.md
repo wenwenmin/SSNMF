@@ -16,6 +16,10 @@ and then run the following R command in the Console.
 </p>
 Figure 1. Comparison of results of 12 unsupervised clustering methods in terms of NMI on the simulated data.
 
+<p align="center"> 
+<img src="https://github.com/wenwenmin/ESPCA/blob/master/ESPCA.png">
+</p>
+
 ### References
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
