@@ -21,7 +21,7 @@ Figure 1. Comparison of results of 12 unsupervised clustering methods in terms o
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
 <tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
-Wenwen Min, Xiang Wan and Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with L20-norm. 
+Wenwen Min, Xiang Wan and Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with L20-norm. arXiv, 2021. https://arxiv.org/abs/2104.13171
 </td></tr>
 </tbody>
 </table>
